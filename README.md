@@ -80,7 +80,7 @@ algunas estadísticas.
 
   El ejecutable de nuestra aplicación debe poder ejecutarse de la siguiente manera a través de la **terminal**:
 
-  `$ npm install bitzyg-md-links`
+  `$ npm i bitzyg-md-links`
 
   ##### Valor de retorno
 
