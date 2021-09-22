@@ -1,5 +1,5 @@
 {
-  "name": "md-links",
+  "name": "bitzyg-md-links",
   "version": "0.1.0",
   "description": "This module find links inside markdown files and return their status",
   "main": "./src/api.js",

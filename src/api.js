@@ -1,5 +1,4 @@
 /* eslint-disable max-len */
-/* eslint-disable no-param-reassign */
 const fs = require('fs'); // Load the File System module
 const path = require('path'); // provides utilities for working with file and directory paths
 const fetch = require('node-fetch'); // allows you to asynchronously request for a resource.
@@ -95,7 +94,6 @@ module.exports = {
   pathIsDir,
   readDir,
   mdValidation,
-  // readFile,
   searchMdFile,
   getLinks,
   getStatus,

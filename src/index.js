@@ -1,4 +1,3 @@
-// const { promise } = require('node-fetch');
 const fnNode = require('./api.js');
 
 const mdLink = (path, option = {}) => new Promise((resolve, reject) => {
